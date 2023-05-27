@@ -15,6 +15,6 @@ git config --global merge.tool GitLens
 ```
 
 <a href="https://smitpatelx.com/">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=smitpatelx&count_private=true&show_icons=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=smitpatelx&count_private=true&show_icons=true&theme=cobalt&hide_border=true&hide_rank=true&title_color=adbac7&text_color=5087cb" />
 </a>
 
