@@ -7,7 +7,7 @@ Welcome to my profile
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-skyblue?style=for-the-badge&logo=typescript" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker" />
   <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-53C694?style=for-the-badge" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-41d392?style=for-the-badge" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-1B3C50?style=for-the-badge&logo=tailwindcss" />
   <img alt="Go" src="https://img.shields.io/badge/-GO-3B73B0?style=for-the-badge&logo=go" />
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-822B4F?style=for-the-badge&logo=sass" />
