@@ -2,7 +2,7 @@
 
 Welcome to my profile
 
-#### Some technologies I worked with
+### Some technologies I worked with
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-skyblue?style=for-the-badge&logo=typescript" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker" />
@@ -23,12 +23,27 @@ Welcome to my profile
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-9D3481?style=for-the-badge&logo=framer" />
 </p>
 
+### Where to find me
+<p>
+  <a href="https://github.com/smitpatelx" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/10070295/smit-patel" target="_blank">
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-%231DA1F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/smitpatelx/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/smitpatelx/" target="_blank">
+    <img alt="CodePen" src="https://img.shields.io/badge/Codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+</p>
+
+### Contact
 - **E-mail :** smitpatel.dev@gmail.com
 - [**Portfolio Site**](https://smitpatelx.com/)
-- [**Linkedin**](https://www.linkedin.com/in/smitpatelx/)
-- [**Codepen**](https://codepen.io/smitpatelx/)
 
 <a href="https://smitpatelx.com/">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=smitpatelx&count_private=true&show_icons=true&theme=cobalt&hide_border=true&hide_rank=true&title_color=adbac7&text_color=5087cb" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=smitpatelx&count_private=true&show_icons=true&theme=cobalt&hide_border=true&hide_rank=true&title_color=adbac7&text_color=5087cb&include_all_commits=true&show_owner=true" />
 </a>
 
