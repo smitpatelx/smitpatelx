@@ -23,6 +23,11 @@ Welcome to my profile
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-9D3481?style=for-the-badge&logo=framer" />
 </p>
 
+- **E-mail :** smitpatel.dev@gmail.com
+- [**Portfolio Site**](https://smitpatelx.com/)
+- [**Linkedin**](https://www.linkedin.com/in/smitpatelx/)
+- [**Codepen**](https://codepen.io/smitpatelx/)
+
 <a href="https://smitpatelx.com/">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=smitpatelx&count_private=true&show_icons=true&theme=cobalt&hide_border=true&hide_rank=true&title_color=adbac7&text_color=5087cb" />
 </a>
