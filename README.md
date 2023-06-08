@@ -28,14 +28,14 @@ Welcome to my profile
   <a href="https://github.com/smitpatelx" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/10070295/smit-patel" target="_blank">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-%231DA1F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/smitpatelx/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codepen.io/smitpatelx/" target="_blank">
     <img alt="CodePen" src="https://img.shields.io/badge/Codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/10070295/smit-patel" target="_blank">
+    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-%2372421c.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
 </p>
 
