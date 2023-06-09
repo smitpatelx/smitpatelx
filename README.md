@@ -34,9 +34,6 @@ Welcome to my profile
   <a href="https://codepen.io/smitpatelx/" target="_blank">
     <img alt="CodePen" src="https://img.shields.io/badge/Codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/10070295/smit-patel" target="_blank">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-%2372421c.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
 </p>
 
 ### Contact
