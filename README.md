@@ -7,7 +7,7 @@ Welcome to my profile
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-skyblue?style=for-the-badge&logo=typescript" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker" />
   <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-41d392?style=for-the-badge" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue 3-2b6d55?style=for-the-badge&logo=vue.js" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-1B3C50?style=for-the-badge&logo=tailwindcss" />
   <img alt="Go" src="https://img.shields.io/badge/-GO-3B73B0?style=for-the-badge&logo=go" />
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-822B4F?style=for-the-badge&logo=sass" />
@@ -22,8 +22,10 @@ Welcome to my profile
   <img alt="ExpressJs" src="https://img.shields.io/badge/-Express Js-259dff?style=for-the-badge&logo=express" />
   <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-363636?style=for-the-badge&logo=fastify" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-1e222e?style=for-the-badge&logo=php" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ffd0cf?style=for-the-badge&logo=laravel" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=vercel" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-d2c?style=for-the-badge&logo=framer" />
+  <img alt="Vue2" src="https://img.shields.io/badge/-Vue 2-2b6d55?style=for-the-badge&logo=vue.js" />
 </p>
 
 ### Where to find me
