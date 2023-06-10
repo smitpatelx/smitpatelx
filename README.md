@@ -14,13 +14,16 @@ Welcome to my profile
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-3758A4?style=for-the-badge&logo=mui" />
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-3B73B0?style=for-the-badge&logo=vuetify" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-214A63?style=for-the-badge&logo=linux" />
-  <img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSql-9FB6DF?style=for-the-badge&logo=postgresql" />
+  <img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSql-acc4d6?style=for-the-badge&logo=postgresql" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3A822B?style=for-the-badge&logo=mongodb" />
-  <img alt="GithubActions" src="https://img.shields.io/badge/-GithubActions-3758A4?style=for-the-badge&logo=githubactions" />
+  <img alt="GithubActions" src="https://img.shields.io/badge/-GithubActions-3758A4?style=for-the-badge&logo=github" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1B3C50?style=for-the-badge&logo=prettier" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs" />
+  <img alt="ExpressJs" src="https://img.shields.io/badge/-Express Js-259dff?style=for-the-badge&logo=express" />
+  <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-363636?style=for-the-badge&logo=fastify" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-1e222e?style=for-the-badge&logo=php" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=vercel" />
-  <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-9D3481?style=for-the-badge&logo=framer" />
+  <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-d2c?style=for-the-badge&logo=framer" />
 </p>
 
 ### Where to find me
