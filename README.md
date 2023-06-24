@@ -4,7 +4,8 @@ Welcome to my profile
 
 ### Some technologies I worked with
 <p>
-  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-skyblue?style=for-the-badge&logo=typescript" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-6ea5e1?style=for-the-badge&logo=typescript" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-86abca?style=for-the-badge&logo=python" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker" />
   <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue 3-2b6d55?style=for-the-badge&logo=vue.js" />
@@ -21,11 +22,14 @@ Welcome to my profile
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/-Express Js-259dff?style=for-the-badge&logo=express" />
   <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-363636?style=for-the-badge&logo=fastify" />
+  <img alt="Fastapi" src="https://img.shields.io/badge/-Fastapi-00ccb8?style=for-the-badge&logo=fastapi" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-1e222e?style=for-the-badge&logo=php" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-ffd0cf?style=for-the-badge&logo=laravel" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=vercel" />
   <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer Motion-d2c?style=for-the-badge&logo=framer" />
   <img alt="Vue2" src="https://img.shields.io/badge/-Vue 2-2b6d55?style=for-the-badge&logo=vue.js" />
+  <img alt="Zod" src="https://img.shields.io/badge/-Zod-000000?style=for-the-badge&logo=zod" />
+  <img alt="React Hook Form" src="https://img.shields.io/badge/-React Hook Form-191d3a?style=for-the-badge&logo=react-hook-form" />
 </p>
 
 ### Where to find me
