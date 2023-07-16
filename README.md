@@ -32,6 +32,9 @@ Welcome to my profile
   <img alt="React Hook Form" src="https://img.shields.io/badge/-React Hook Form-191d3a?style=for-the-badge&logo=react-hook-form" />
 </p>
 
+### Whats going on?
+- About to start learning rust. Good luck to myself. 😃
+
 ### Where to find me
 <p>
   <a href="https://github.com/smitpatelx" target="_blank">
