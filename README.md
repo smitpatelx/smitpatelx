@@ -33,7 +33,7 @@ Welcome to my profile
 </p>
 
 ### Whats going on?
-- Working on site-notes (cra & FastAPI py) , url-shortener (serverless & dynamodb), and rus-plugin (vue3 complete rewrite).
+- Working on site-notes (cra & FastAPI py) , url-shortener (nextjs, serverless & dynamodb), and rus-plugin (vue3 complete rewrite).
 
 ### Where to find me
 <p>
