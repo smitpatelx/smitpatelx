@@ -33,7 +33,10 @@ Welcome to my profile
 </p>
 
 ### Whats going on?
-- Working on site-notes (cra & FastAPI py) , url-shortener (nextjs, serverless & dynamodb), and rus-plugin (vue3 complete rewrite).
+- Site-Notes (React, ReactQuery,  & FastAPI py)
+- Url-Shortener (Nextjs, Serverless, ReactQuery & Dynamodb)
+- Clicknow.cc (React, GO, SqlBoiler, ReactQuery)
+- RobustUserSearch-Plugin (vue3 complete rewrite)
 
 ### Where to find me
 <p>
