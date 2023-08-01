@@ -33,7 +33,7 @@ Welcome to my profile
 </p>
 
 ### Whats going on?
-- Site-Notes (React, ReactQuery,  & FastAPI py)
+- [Site-Notes](https://site-notes.smitpatelx.com/) (React, ReactQuery,  & FastAPI py)
 - Url-Shortener (Nextjs, Serverless, ReactQuery & Dynamodb)
 - Clicknow.cc (React, GO, SqlBoiler, ReactQuery)
 - RobustUserSearch-Plugin (vue3 complete rewrite)
