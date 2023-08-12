@@ -7,6 +7,7 @@ Welcome to my profile
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-6ea5e1?style=for-the-badge&logo=typescript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-86abca?style=for-the-badge&logo=python" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-8faff2?style=for-the-badge&logo=kubernetes" />
   <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue 3-2b6d55?style=for-the-badge&logo=vue.js" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-1B3C50?style=for-the-badge&logo=tailwindcss" />
