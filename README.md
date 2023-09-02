@@ -38,7 +38,7 @@ Welcome to my profile
 - Url-Shortener (Nextjs, Serverless, ReactQuery & Dynamodb)
 - Clicknow.cc (React, GO, SqlBoiler, ReactQuery)
 - RobustUserSearch-Plugin (vue3 complete rewrite)
-- Kubernetes-MicroK8s cluster configuration.
+- Kubernetes-MicroK8s cluster configuration. (Postgresql Cluster, Redis Failover, Custom images, Domain setup, etc)
 
 ### Where to find me
 <p>
