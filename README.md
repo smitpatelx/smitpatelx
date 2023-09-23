@@ -36,7 +36,7 @@ Welcome to my profile
 ### Whats going on?
 - [Site-Notes](https://site-notes.smitpatelx.com/) (React, ReactQuery,  & FastAPI py)
 - Url-Shortener (Nextjs, Serverless, ReactQuery & Dynamodb)
-- Clicknow.cc (React, GO, SqlBoiler, ReactQuery)
+- [Clicknow.cc](https://clicknow.cc/) (React, GO, SqlBoiler, ReactQuery)
 - RobustUserSearch-Plugin (vue3 complete rewrite)
 - Kubernetes-MicroK8s cluster configuration. (Postgresql Cluster, Redis Failover, Custom images, Domain setup, etc)
 
