@@ -34,9 +34,9 @@ Welcome to my profile
 </p>
 
 ### Whats going on?
-- [Site-Notes](https://site-notes.smitpatelx.com/) (React, ReactQuery,  & FastAPI py)
+- [Site-Notes](https://site-notes.smitpatelx.com/) (React, ReactQuery, Python, PostgreSQL, Docker, Swagger & FastAPI py)
 - Url-Shortener (Nextjs, Serverless, ReactQuery & Dynamodb)
-- [Clicknow.cc](https://clicknow.cc/) (React, GO, SqlBoiler, ReactQuery)
+- [Clicknow.cc](https://clicknow.cc/) (React, GO, SqlBoiler, ReactQuery, Zustand, PostgreSQL, Docker, Swagger, Kubernetes & AWS SES)
 - RobustUserSearch-Plugin (vue3 complete rewrite)
 - Kubernetes-MicroK8s cluster configuration. (Postgresql Cluster, Redis Failover, Custom images, Domain setup, etc)
 
