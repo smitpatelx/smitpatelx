@@ -8,10 +8,13 @@ Welcome to my profile
   <img alt="Python" src="https://img.shields.io/badge/-Python-86abca?style=for-the-badge&logo=python" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-8faff2?style=for-the-badge&logo=kubernetes" />
+  <img alt="Go" src="https://img.shields.io/badge/-GO-3B73B0?style=for-the-badge&logo=go" />
+  <img alt="Nix" src="https://img.shields.io/badge/-Nix-ffffff?style=for-the-badge&logo=nixos" />
+  <img alt="OpenAPI" src="https://img.shields.io/badge/-OpenAPI-d2e3c6?style=for-the-badge&logo=openapiinitiative" />
   <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue 3-2b6d55?style=for-the-badge&logo=vue.js" />
+  <img alt="NX" src="https://img.shields.io/badge/-NX-0f172a?style=for-the-badge&logo=nx" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-1B3C50?style=for-the-badge&logo=tailwindcss" />
-  <img alt="Go" src="https://img.shields.io/badge/-GO-3B73B0?style=for-the-badge&logo=go" />
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-822B4F?style=for-the-badge&logo=sass" />
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-3758A4?style=for-the-badge&logo=mui" />
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-3B73B0?style=for-the-badge&logo=vuetify" />
@@ -31,6 +34,7 @@ Welcome to my profile
   <img alt="Vue2" src="https://img.shields.io/badge/-Vue 2-2b6d55?style=for-the-badge&logo=vue.js" />
   <img alt="Zod" src="https://img.shields.io/badge/-Zod-000000?style=for-the-badge&logo=zod" />
   <img alt="React Hook Form" src="https://img.shields.io/badge/-React Hook Form-191d3a?style=for-the-badge&logo=react-hook-form" />
+  <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-85c8ef?style=for-the-badge&logo=stripe" />
 </p>
 
 ### Whats going on?
