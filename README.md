@@ -38,9 +38,9 @@ Welcome to my profile
 </p>
 
 ### Whats going on?
+- Trying our zig to make a minimal cli application which interacts with os level functions using clib, which works cross-platform.
 - [Clicknow.cc](https://clicknow.cc/) (React, GO, SqlBoiler, ReactQuery, Zustand, PostgreSQL, Docker, Swagger, Kubernetes & AWS SES)
 - Kubernetes-MicroK8s cluster configuration. (Postgresql Cluster, Redis Failover, Custom images, Domain setup, etc)
-- Url-Shortener (Nextjs, Serverless, ReactQuery & Dynamodb)
 - Site-Notes (React, ReactQuery, Python, PostgreSQL, Docker, Swagger & FastAPI py)
 - RobustUserSearch-Plugin (vue3 complete rewrite)
 
