@@ -38,7 +38,7 @@ Welcome to my profile
 </p>
 
 ### Whats going on?
-- Trying our zig to make a minimal cli application which interacts with os level functions using clib, which works cross-platform.
+- Trying out ZIG to create a cli application which interacts with os level functions using X11/Xlib, CoreGraphics, & CoreFoundation for cross-platform support.
 - [Clicknow.cc](https://clicknow.cc/) (React, GO, SqlBoiler, ReactQuery, Zustand, PostgreSQL, Docker, Swagger, Kubernetes & AWS SES)
 - Kubernetes-MicroK8s cluster configuration. (Postgresql Cluster, Redis Failover, Custom images, Domain setup, etc)
 - Site-Notes (React, ReactQuery, Python, PostgreSQL, Docker, Swagger & FastAPI py)
