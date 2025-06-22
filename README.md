@@ -5,16 +5,17 @@ Welcome to my profile
 ### Some technologies, I love and have been using since 5+ years
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-6ea5e1?style=for-the-badge&logo=typescript" />
+  <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
+  <img alt="Go" src="https://img.shields.io/badge/-GO-3B73B0?style=for-the-badge&logo=go" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-86abca?style=for-the-badge&logo=python" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-8faff2?style=for-the-badge&logo=kubernetes" />
-  <img alt="Go" src="https://img.shields.io/badge/-GO-3B73B0?style=for-the-badge&logo=go" />
-  <img alt="Nix" src="https://img.shields.io/badge/-Nix-ffffff?style=for-the-badge&logo=nixos" />
-  <img alt="OpenAPI" src="https://img.shields.io/badge/-OpenAPI-d2e3c6?style=for-the-badge&logo=openapiinitiative" />
-  <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue 3-2b6d55?style=for-the-badge&logo=vue.js" />
   <img alt="NX" src="https://img.shields.io/badge/-NX-0f172a?style=for-the-badge&logo=nx" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-1B3C50?style=for-the-badge&logo=tailwindcss" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-8faff2?style=for-the-badge&logo=kubernetes" />
+  <img alt="Nix" src="https://img.shields.io/badge/-Nix-ffffff?style=for-the-badge&logo=nixos" />
+  <img alt="OpenAPI" src="https://img.shields.io/badge/-OpenAPI-d2e3c6?style=for-the-badge&logo=openapiinitiative" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue 3-2b6d55?style=for-the-badge&logo=vue.js" />
+  <img alt="Zig" src="https://img.shields.io/badge/-Zig-634310?style=for-the-badge&logo=zig" />
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-822B4F?style=for-the-badge&logo=sass" />
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-3758A4?style=for-the-badge&logo=mui" />
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-3B73B0?style=for-the-badge&logo=vuetify" />
@@ -22,7 +23,6 @@ Welcome to my profile
   <img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSql-acc4d6?style=for-the-badge&logo=postgresql" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3A822B?style=for-the-badge&logo=mongodb" />
   <img alt="GithubActions" src="https://img.shields.io/badge/-GithubActions-3758A4?style=for-the-badge&logo=github" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1B3C50?style=for-the-badge&logo=prettier" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/-Express Js-259dff?style=for-the-badge&logo=express" />
   <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-363636?style=for-the-badge&logo=fastify" />
