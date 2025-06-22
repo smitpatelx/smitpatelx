@@ -2,7 +2,7 @@
 
 Welcome to my profile
 
-### Some technologies, I love and have been using since 5+ years
+### Some technologies, I love and have been using since 6+ years
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-6ea5e1?style=for-the-badge&logo=typescript" />
   <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
