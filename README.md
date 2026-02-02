@@ -6,7 +6,8 @@ Welcome to my profile
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-6ea5e1?style=for-the-badge&logo=typescript" />
   <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
-  <img alt="Go" src="https://img.shields.io/badge/-GO-3B73B0?style=for-the-badge&logo=go" />
+  <img alt="Go" src="https://img.shields.io/badge/-GO-ffffff?style=for-the-badge&logo=go" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-A72145?style=for-the-badge&logo=rust" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-86abca?style=for-the-badge&logo=python" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-lightblue?style=for-the-badge&logo=docker" />
   <img alt="NX" src="https://img.shields.io/badge/-NX-0f172a?style=for-the-badge&logo=nx" />
