@@ -39,10 +39,10 @@ Welcome to my profile
 </p>
 
 ### Whats going on?
-- Trying out ZIG to create a cli application which interacts with os level functions using X11/Xlib, CoreGraphics, & CoreFoundation for cross-platform support.
+- Building microservice based auto scalable architecture with Bun, Hono and Postgres levraging Kubernetes & Docker.
+- Building with ZIG to create a cli application which interacts with os level functions using X11/Xlib, CoreGraphics, & CoreFoundation for cross-platform support.
 - [Clicknow.cc](https://clicknow.cc/) (React, GO, SqlBoiler, ReactQuery, Zustand, PostgreSQL, Docker, Swagger, Kubernetes & AWS SES)
 - Kubernetes-MicroK8s cluster configuration. (Postgresql Cluster, Redis Failover, Custom images, Domain setup, etc)
-- Site-Notes (React, ReactQuery, Python, PostgreSQL, Docker, Swagger & FastAPI py)
 - RobustUserSearch-Plugin (vue3 complete rewrite)
 
 ### Where to find me
