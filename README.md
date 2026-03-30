@@ -41,7 +41,7 @@ Welcome to my profile
 ### Whats going on?
 - Building microservice based auto scalable architecture with Bun, Hono and Postgres levraging Kubernetes & Docker.
 - Building with ZIG to create a cli application which interacts with os level functions using X11/Xlib, CoreGraphics, & CoreFoundation for cross-platform support.
-- [Clicknow.cc](https://clicknow.cc/) (React, GO, SqlBoiler, ReactQuery, Zustand, PostgreSQL, Docker, Swagger, Kubernetes & AWS SES)
+- Scalable url-shortner with analytics. (React, GO, SqlBoiler, ReactQuery, Zustand, PostgreSQL, Docker, Swagger, Kubernetes & AWS SES)
 - Kubernetes-MicroK8s cluster configuration. (Postgresql Cluster, Redis Failover, Custom images, Domain setup, etc)
 - RobustUserSearch-Plugin (vue3 complete rewrite)
 
